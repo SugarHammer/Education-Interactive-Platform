@@ -1,0 +1,5 @@
+前：http://127.0.0.1:8080/front/showcoulist
+lmx193@162.com    111111
+
+后：http://127.0.0.1:8080/admin
+admin    111111
